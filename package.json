@@ -1,0 +1,38 @@
+{
+  "name": "coronavirus_covid19",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@progress/kendo-data-query": "^1.5.4",
+    "@progress/kendo-dropdowns-vue-wrapper": "^2020.3.928",
+    "@progress/kendo-grid-vue-wrapper": "^2020.3.928",
+    "@progress/kendo-theme-default": "^4.24.0",
+    "@progress/kendo-vue-animation": "^1.1.2",
+    "@progress/kendo-vue-data-tools": "^1.1.2",
+    "@progress/kendo-vue-dateinputs": "^1.1.2",
+    "@progress/kendo-vue-dropdowns": "^1.1.2",
+    "@progress/kendo-vue-grid": "^1.1.2",
+    "@progress/kendo-vue-inputs": "^1.1.2",
+    "@progress/kendo-vue-intl": "^1.1.2",
+    "@progress/kendo-vue-popup": "^1.1.2",
+    "axios": "^0.18.0",
+    "moment": "^2.29.1",
+    "sass-loader": "^10.0.3",
+    "vue": "^2.5.17",
+    "vue-dropdowns": "^1.1.2",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-plugin-eslint": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
+    "@vue/eslint-config-prettier": "^3.0.0",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
